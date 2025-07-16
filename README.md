@@ -101,10 +101,7 @@ Logistic Regression and Random Forest achieved the best performance with 96% acc
 
 ---
 
-## 👨‍💻 Author
 
-**Jatin Kushwaha**  
-[GitHub](https://github.com/Jk319) | [LinkedIn](https://linkedin.com/in/jatin-kushwaha)
 
 ---
 
